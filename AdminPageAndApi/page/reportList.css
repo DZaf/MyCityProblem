@@ -1,0 +1,146 @@
+#navAlpha {
+    padding: 0px !important;
+    padding-top: 5px !important;
+    padding-left: 5px !important;
+}
+
+body {
+    background-image: url("http://www.17patterns.com/wp-content/uploads/2015/02/A04-RD-01_Rome-Deco_White_Repeat.jpg");
+    background-color: #cccccc;
+}
+
+#mainBody {
+    background-color: #fafafa;
+}
+
+.card {
+    margin: 10px;
+    background-color: gray;
+}
+
+.card:hover {
+    background-color: #A9A9A9;
+}
+
+.cardImg {
+    max-width: 100%;
+    height: 250px;
+    vertical-align: middle;
+    text-align: center;
+    display: table-cell;
+}
+
+.cardImg img {
+    max-width: 100%;
+    height: auto;
+    padding: 5px;
+    max-height: 250px;
+}
+
+.cardMap {
+    max-width: 100%;
+    height: 250px;
+    vertical-align: middle;
+    text-align: center;
+    display: table-cell;
+    margin: 0px !important;
+    display: none;
+}
+
+.cardMap img {
+    max-width: 100%;
+    height: auto;
+    padding: 5px;
+}
+
+.cardContent {
+    padding: 5px;
+}
+
+.arrow-down {
+    width: 100%;
+    text-align: center;
+    align-items: center;
+    align-content: center;
+}
+
+.downArrow {
+    width: 100%;
+    text-align: center;
+}
+
+.arrow-up {
+    width: 100%;
+    text-align: center;
+    align-items: center;
+    align-content: center;
+    display: none;
+}
+
+.clickable-tr:hover
+{
+background-color: #dedede !important;
+}
+
+.glyphicon-thumbs-up
+{
+    margin-right: 12px;
+}
+
+.table>tbody>tr>td
+{
+    padding-top: 22px !important;
+}
+
+.first-container
+{
+    padding-top: 22px !important;
+}
+
+button.btn.btn-outline-secondary.border-left-0
+{
+    height: 34px !important;
+    padding-right: 26px !important;
+    border-radius: 0px !important;
+}
+
+span.input-group-append
+{
+    display: flex !important;
+}
+
+.slider {
+  -webkit-appearance: none;
+  width: 100%;
+  height: 15px;
+  border-radius: 5px;   
+  background: #d3d3d3;
+  outline: none;
+  opacity: 0.7;
+  -webkit-transition: .2s;
+  transition: opacity .2s;
+}
+
+.slider::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 25px;
+  height: 25px;
+  border-radius: 50%; 
+  background: #4CAF50;
+  cursor: pointer;
+}
+
+.slider::-moz-range-thumb {
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  background: #4CAF50;
+  cursor: pointer;
+}
+
+#imageprob img {
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}

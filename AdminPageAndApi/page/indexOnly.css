@@ -1,0 +1,66 @@
+.formCard {
+    align-content: center;
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5), 0 6px 20px 0 rgba(0, 0, 0, 0.49);
+}
+
+body {
+    background-image: url("http://www.17patterns.com/wp-content/uploads/2015/02/A04-RD-01_Rome-Deco_White_Repeat.jpg");
+    background-color: #cccccc;
+}
+
+#loginForm {
+    display: none;
+}
+
+#loginForm input {
+    margin-bottom: 8px;
+}
+
+#registerForm {
+    display: none;
+}
+
+#registerForm input {
+    margin-bottom: 8px;
+}
+
+.empty-row {
+    align-content: center;
+    text-align: center;
+    margin-bottom: 5em;
+    text-shadow: 5px 5px 10px black;
+    color: whitesmoke;
+    -webkit-text-stroke-width: 0.5px;
+    -webkit-text-stroke-color: black;
+}
+
+#loginToRegister {
+    color: lightgreen;
+}
+
+#loginToRegister:hover {
+    color: green;
+    cursor: pointer;
+}
+
+#registerToLogin {
+    color: lightgreen;
+}
+
+#registerToLogin:hover {
+    color: green;
+    cursor: pointer;
+}
+
+#lreport {
+    color: red;
+}
+
+#rreport{
+    color: red;
+}

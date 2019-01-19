@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Problem Report admin</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel="stylesheet" href="./indexOnly.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <script src="./index.js"></script>
+</head>
+
+<body>
+    <div class="container-fluid">
+        <div class="row empty-row">
+            <h1> Καλοσήρθατε στο CityProb</h1>
+        </div>
+        <div class="row">
+            <div class="col-md-4"></div>
+            <div class="formCard col-md-4">
+                <form id="loginForm">
+                    <h3>Login Form</h3>
+                    <label for="lemail">Email</label>
+                    <input required="true" type="email" class="form-control" id="lemail" placeholder="Εισάγεται το email σας">
+                    <label for="lpassword">Password</label>
+                    <input required="true" type="password" class="form-control" id="lpassword" placeholder="Εισάγεται το password σας">
+                    <button type="button" id="loginSubmit" class="btn btn-primary">Είσοδος</button>
+                    <p id="lreport"></p>
+                    <br>
+                    <a id="loginToRegister"> Θέλετε να κάνετε εγγραφή ;</a>
+                </form>
+                <form id="registerForm">
+                    <h3>Register Form</h3>
+                    <label for="remail">Email</label>
+                    <input required="true" type="email" class="form-control" id="remail" placeholder="Εισάγεται το email σας">
+                    <label for="rname">Όνομα</label>
+                    <input required="true" type="text" class="form-control" id="rname" placeholder="Εισάγεται το όνομα σας">
+                    <label for="rsurname">Επίθετο</label>
+                    <input required="true" type="text" class="form-control" id="rsurname" placeholder="Εισάγεται το επώνυμο σας">
+                    <label for="rpassword">Password</label>
+                    <input required="true" type="password" class="form-control" id="rpassword" placeholder="Εισάγεται το password σας">
+                    <button type="button" id="registerSubmit" class="btn btn-primary">Εγγραφή</button>
+                    <br>
+                    <p id="rreport"></p>
+                    <br>
+                    <a id="registerToLogin"> Έχω ήδη λογαριασμό</a>
+                </form>
+            </div>
+            <div class="col-md-4"></div>
+        </div>
+        <div class="row"></div>
+
+    </div>
+
+</body>
+
+</html>
