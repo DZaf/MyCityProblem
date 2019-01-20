@@ -39,15 +39,19 @@ To project μπορεί να χωρηστεί σε 3 διακριτά μικρό
 #### Είσοδος
 στην οθόνη αυτή μπορείτε να εισάγεται τα στοιχεία σας και να εισέλθετε στον ιστ΄ττοπο
 ![alt text](https://projecticsd14052.000webhostapp.com/images/LoginAPP.png)
+
 #### Εγγραφη
 στην οθόνη αυτή μπορείτε να εισάγεται τα στοιχεία σας και να κάνετε εγγραφη
 ![alt text](https://projecticsd14052.000webhostapp.com/images/RegisterAPP.png)
+
 #### Αρχική Οθόνη
 στην οθόνη αυτή μπορείτε να δείτε όλες τις αναφορές που έχουν γίνει
 ![alt text](https://projecticsd14052.000webhostapp.com/images/HomePage.png)
+
 #### Αναφορά
 στην οθόνη αυτή μπορείτε να Τραβήξετε μια φωτογραφία και με την συμπλήρωση της κατηγορίας και μίας περιγραφής μπορείτε να ανεβάσετε την αναφορά σας
 ![alt text](https://projecticsd14052.000webhostapp.com/images/ReportAPP.png)
+
 #### Προβολή σε χάρτη
 στην οθόνη αυτή μπορείτε να δείτε όλες τις κοντινές αναφορές που έχουν γίνει
 ![alt text](https://projecticsd14052.000webhostapp.com/images/MapAPP.png)
