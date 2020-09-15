@@ -82,6 +82,6 @@ The project can be divided into 3 distinct smaller projects
   - Excellent use of Google Maps API **for APP and WebPage**
   
 # Co-Creators
-  -[Γεώργιος Ζώγας](https://github.com/gzogas)
+  -[Γεώργιος Ζώγας](https://github.com/gzogas) 
   
   -[Κωνσταντίνος Καλύβας](https://www.linkedin.com/in/konstantinos-kalivas-45552018a/)
