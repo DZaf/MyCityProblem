@@ -1,4 +1,32 @@
 # My City's Problems Project
+# ENG:
+###### Created in 2019
+This project was created in 2019 as part of a work by the Panepistimiou Aegean of the Department of Information and Communication Systems Engineering. The purpose is to report various problems in a city using the application and to inform those responsible through an Admin Panel.
+
+The project can be divided into 3 distinct smaller projects
+  - The API
+  - The Admin Panel
+  - The APP
+### Technologies used
+  - HTML5, JavaScript, JQuery, css, Bootstrap **for forntend**
+  - PHP and XML **for backend**
+  - Java **for APP**
+  - Google Maps API **for APP and WebPage**
+  -Android Studio and VScode **as IDEs**
+
+### Where are all these found?
+  - You can download the application from [here](https://drive.google.com/file/d/1A1q9AJ8PrgTjEyXh3RthuygDZLGsitIw/view?usp=sharing)
+  - You can see the website [here](https://icsdmobileprojectapi.000webhostapp.com/page/index.html)
+  - The application code is located in the file [MobileApp](https://github.com/DZaf/MyCityProblem/tree/master/MobileApp)
+  - The website code is located at [AdminPageAndApi / page](https://github.com/DZaf/MyCityProblem/tree/master/AdminPageAndApi/page)
+  - The Api code is located at [AdminPageAndApi](https://github.com/DZaf/MyCityProblem/tree/master/AdminPageAndApi) 
+  
+### Knowledge acquired
+  - Excellent use of HTML5, JavaScript, JQuery, css, Bootstrap **for forntend**
+  - The design and creation of a **NON** relational database in XML that will cover all the functional and non-functional requirements of the system and its management through PHP
+  - Using Java in Android Studio **for APP**
+  - Excellent use of Google Maps API **for APP and WebPage**
+  
 # GR:
 ###### Δημιουργήθηκε το 2019
 Το project αυτό δημιουργήθηκε το 2019 στο πλαίσιο μίας εργασίας του Πανεπηστιμίου Αιγαίου του Τμήματος Μηχανικών Πληροφοριακών και Επικοινωνιακών συστημάτων. Ώς σκοπό έχει την αναφορά διάφορων προβλημάτων μίας πόλης με την χρήση της εφαρμογής και την ενημέρωση των υπευθύνων μέσα απο ένα Admin Panel.
@@ -52,34 +80,6 @@ To project μπορεί να χωρηστεί σε 3 διακριτά μικρό
   - Η σχεδίαση και η δημιουργία μιας **ΜΗ** σχεσιακής βάσης δεδομένων σε XML που θα καλύπτει όλες τις λειτουργικές και μή λειτουργικές απαιτήσεις του συστήματος και η διαχείρησή της μέσω PHP
   - Η χρήση Java σε περιβάλλον Android Studio **για το APP**
   - Η Άριστη χρήση του Google Maps API **για το APP και το WebPage**
-  
-# ENG:
-###### Created in 2019
-This project was created in 2019 as part of a work by the Panepistimiou Aegean of the Department of Information and Communication Systems Engineering. The purpose is to report various problems in a city using the application and to inform those responsible through an Admin Panel.
-
-The project can be divided into 3 distinct smaller projects
-  - The API
-  - The Admin Panel
-  - The APP
-### Technologies used
-  - HTML5, JavaScript, JQuery, css, Bootstrap **for forntend**
-  - PHP and XML **for backend**
-  - Java **for APP**
-  - Google Maps API **for APP and WebPage**
-  -Android Studio and VScode **as IDEs**
-
-### Where are all these found?
-  - You can download the application from [here](https://drive.google.com/file/d/1A1q9AJ8PrgTjEyXh3RthuygDZLGsitIw/view?usp=sharing)
-  - You can see the website [here](https://icsdmobileprojectapi.000webhostapp.com/page/index.html)
-  - The application code is located in the file [MobileApp](https://github.com/DZaf/MyCityProblem/tree/master/MobileApp)
-  - The website code is located at [AdminPageAndApi / page](https://github.com/DZaf/MyCityProblem/tree/master/AdminPageAndApi/page)
-  - The Api code is located at [AdminPageAndApi](https://github.com/DZaf/MyCityProblem/tree/master/AdminPageAndApi) 
-  
-### Knowledge acquired
-  - Excellent use of HTML5, JavaScript, JQuery, css, Bootstrap **for forntend**
-  - The design and creation of a **NON** relational database in XML that will cover all the functional and non-functional requirements of the system and its management through PHP
-  - Using Java in Android Studio **for APP**
-  - Excellent use of Google Maps API **for APP and WebPage**
   
 # Co-Creators
   -[Γεώργιος Ζώγας](https://github.com/gzogas) 
